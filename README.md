@@ -70,11 +70,7 @@ View [example pages here](https://demos.creative-tim.com/argon-design-system-rea
 
 ## Quick start
 
-- `npm i argon-design-system-react`
-- [Download from Github](https://github.com/creativetimofficial/argon-design-system-react/archive/main.zip).
-- [Download from Creative Tim](https://www.creative-tim.com/product/argon-design-system-react?ref=adsr-github-readme).
-- Install with [Bower](https://bower.io/?ref=creativetim): ```bower install argon-design-system-react```.
-- Clone the repo: `git clone https://github.com/creativetimofficial/argon-design-system-react.git`.
+- Clone this template repo. 
 
 
 ## Documentation
